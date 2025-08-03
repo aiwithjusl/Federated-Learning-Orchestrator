@@ -6,8 +6,6 @@
 
 *Coordinate distributed AI training across devices without centralized data sharing*
 
-</div>
-
 ---
 
 ## 🚀 What It Does
