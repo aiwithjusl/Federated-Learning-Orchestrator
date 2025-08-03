@@ -6,8 +6,6 @@
 
 *Coordinate distributed AI training across devices without centralized data sharing*
 
-</div>
-
 ---
 
 ## 🚀 What It Does
@@ -86,17 +84,11 @@ SQLite3 (included with Python)
 - `README.md` - Full technical documentation
 - `LICENSE` - MIT License
 
-## 📞 Contact
-
-<div align="center">
-
-**Justin Lane** | *AI/ML Developer*
-
-[![Email](https://img.shields.io/badge/Email-aiwithjusl.dev%40gmail.com-red?style=flat&logo=gmail)](mailto:aiwithjusl.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Justin%20Lane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/justin-lane-69b960219)
-[![GitHub](https://img.shields.io/badge/GitHub-aiwithjusl-black?style=flat&logo=github)](https://github.com/aiwithjusl)
-
-</div>
+<h2>👤 About the Author</h2>
+  <p><strong>Justin Lane</strong><br/>
+  🔗 GitHub: <a href="https://github.com/aiwithjusl" target="_blank">@aiwithjusl</a><br/>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/justin-lane-69b960219" target="_blank">Justin Lane</a><br/>
+  📬 Email: <a href="mailto:aiwithjusl.dev@gmail.com">aiwithjusl.dev@gmail.com</a></p>
 
 ---
 
