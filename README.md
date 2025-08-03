@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="images/Federated-Learning-Orchestrator-Banner.png" alt="Federated Learning Orchestrator Banner" width="100%" />
+</p>
 
 ---
 
