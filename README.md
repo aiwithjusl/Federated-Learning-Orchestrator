@@ -2,6 +2,12 @@
   <img src="images/Federated-Learning-Orchestrator-Banner.png" alt="Federated Learning Orchestrator Banner" width="100%" />
 </p>
 
+**🔗 Privacy-Preserving Federated Learning for Mobile Devices**
+
+*Coordinate distributed AI training across devices without centralized data sharing*
+
+</div>
+
 ---
 
 ## 🚀 What It Does
